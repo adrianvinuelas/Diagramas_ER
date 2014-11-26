@@ -1,0 +1,1 @@
+Sí, no se puede expresar que un Álbum tenga sólo un número concreto de canciones (en el diagrama sólo se expresa que tiene que tener una o más canciones).

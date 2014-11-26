@@ -1,0 +1,4 @@
+2. El precio no estaría vinculado a la relación "vende", si no que sería un atributo de la entidad "Medicamento".
+
+3. Habría que vincular los atributos de la relación "receta" con una nueva entidad de nombre "Receta"(por ejemplo) y después
+vincular dicha entidad con la relación "receta".(El Médico receta al paciente una Receta, pero en realidad receta un Medicamento)
